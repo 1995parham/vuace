@@ -1,8 +1,9 @@
 # vuace
 
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](http://standardjs.com)
 
-![npm](https://img.shields.io/npm/v/vuace.svg?style=flat-square)
-![npm](https://img.shields.io/npm/dw/vuace.svg?style=flat-square)
+[![npm](https://img.shields.io/npm/v/vuace.svg?style=flat-square)](https://www.npmjs.com/package/vuace)
+[![npm](https://img.shields.io/npm/dw/vuace.svg?style=flat-square)](https://www.npmjs.com/package/vuace)
 
 
 ## Introduction
