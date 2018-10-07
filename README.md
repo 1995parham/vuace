@@ -1,5 +1,10 @@
 # vuace
 
+
+![npm](https://img.shields.io/npm/v/vuace.svg?style=flat-square)
+![npm](https://img.shields.io/npm/dw/vuace.svg?style=flat-square)
+
+
 ## Introduction
 A packaging of [ace](https://ace.c9.io/) for Vue.js based on [vue2-ace-editor](https://github.com/chairuosen/vue2-ace-editor).
 
