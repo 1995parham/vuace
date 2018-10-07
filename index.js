@@ -1,4 +1,4 @@
-const AceEditor = require('lib/editor.js')
+const AceEditor = require('./lib/editor.js')
 
 const VuacePlugin = {
   install (Vue, options) {
