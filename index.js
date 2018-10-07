@@ -6,4 +6,4 @@ const VuacePlugin = {
   }
 }
 
-module.export = VuacePlugin
+module.exports = VuacePlugin
